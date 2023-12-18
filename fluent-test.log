@@ -1,0 +1,59 @@
+2023-12-14 06:33:21 INFO  This is unstructured server log data
+2023-12-14 06:33:21 ERROR This is an unstructured error
+{"message": "Structured application log message 1"}
+{"message": "Structured application log message 2"}
+2023-12-14 06:33:21 INFO  This is unstructured server log data
+{"entity": "workorder", "@timestamp": "2024-01-02T01:12:02.000", "message": "Structured application log message 2"}
+{"entity": "workorder", "@timestamp": "2024-01-02T01:12:02.000", "message": "Structured application log message 2"}
+{"entity": "workorder", "@timestamp": "2024-01-02T01:12:02.000", "message": "Structured application log message 2"}
+{"entity": "workorder", "@timestamp": "2024-01-02T01:12:02.000", "message": "Structured application log message 2"}
+{"entity": "workorder", "@timestamp": "2024-01-02T01:12:02.000", "message": "Structured application log message 2"}
+2023-12-14 06:33:21 INFO  This is a message from the IS
+2023-12-14 06:33:21 INFO  This is a message from the IS
+2023-12-14 06:33:21 INFO  This is a message from the IS
+2023-12-14 06:33:21 INFO  This is a message from the IS
+2023-12-14 06:33:21 INFO  This is a message from the IS
+2023-12-14 06:33:21 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+{"message":"Integration log"}
+{"message":"Integration log"}
+{"message":"Integration log"}
+2023-12-14T06:33:21.000 INFO  This is a message from the IS
+2023-12-18T16:33:21.000 INFO  This is a message from the IS
+2023-12-18T16:33:21.000 INFO  This is a message from the IS
+2023-12-18T16:33:21.000 INFO  This is a message from the IS
+2023-12-18T16:33:21.000 INFO  This is a message from the IS
+{message: Test msg log, @timestamp: 2023-12-18T16:34:44.000
+{"message": "Test msg log", "@timestamp": "2023-12-18T16:34:44.000}
+{"message": "Test msg log", "@timestamp": "2023-12-18T16:34:44.000"}
